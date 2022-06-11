@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v18_15 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(13,13,13,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v18_16 {
+  width: 168px;
+  height: 300px;
+  background: url("../images/v18_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 716px;
+  left: 1272px;
+  border-top-left-radius: 84px;
+  border-top-right-radius: 84px;
+  border-bottom-left-radius: 84px;
+  border-bottom-right-radius: 84px;
+  overflow: hidden;
+}
+.v18_17 {
+  width: 490px;
+  height: 98px;
+  background: rgba(254,81,252,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 8px;
+  border: 1px solid rgba(249,2,255,1);
+  overflow: hidden;
+}
+.v18_18 {
+  width: 450px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 21px;
+  left: 32px;
+  font-family: Jacques Francois;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_19 {
+  width: 105px;
+  height: 179px;
+  background: url("../images/v18_19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 1335px;
+  overflow: hidden;
+}
+.v18_20 {
+  width: 726px;
+  height: 98px;
+  background: rgba(120,22,144,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 528px;
+  overflow: hidden;
+}
+.v18_21 {
+  width: 264px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 8px;
+  left: 770px;
+  font-family: Jacques Francois;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_22 {
+  width: 417px;
+  height: 509px;
+  background: url("../images/v18_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 114px;
+  left: 45px;
+  overflow: hidden;
+}
+.v18_23 {
+  width: 719px;
+  color: url("../images/v18_23.png");
+  position: absolute;
+  top: 60px;
+  left: 35%;
+  font-family: Jacques Francois;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+  color: white;
+}
+.v18_24 {
+  width: 168px;
+  height: 300px;
+  background: url("../images/v18_24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 716px;
+  left: 0px;
+  border-top-left-radius: 84px;
+  border-top-right-radius: 84px;
+  border-bottom-left-radius: 84px;
+  border-bottom-right-radius: 84px;
+  overflow: hidden;
+}
+.v18_25 {
+  width: 195px;
+  height: 254px;
+  background: url("../images/v18_25.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 645px;
+  left: 740px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
